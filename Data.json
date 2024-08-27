@@ -1,0 +1,42 @@
+[
+    {
+        "Categoría": "Servicios Generales",
+        "Pregunta": "¿Qué hace el Centro Médico?",
+        "Respuesta": "El Centro Médico Integrativo Mana ofrece un modelo de atención integral que abarca los aspectos biológicos, psicológicos, sociales y espirituales del paciente, promoviendo una salud equilibrada y holística."
+    },
+    {
+        "Categoría": "Servicios Generales",
+        "Pregunta": "¿Qué servicios ofrecen en el Centro Médico?",
+        "Respuesta": "Ofrecemos servicios especializados en medicina interna, ginecología, pediatría, hematología, oncología, cuidados paliativos, nutriología médica, y medicina funcional. Estos servicios se integran con terapias complementarias como acupuntura, homeopatía, y meditación, dentro de un enfoque de medicina integrativa para el bienestar completo del paciente."
+    },
+    {
+        "Categoría": "Consultas y Tratamientos Específicos",
+        "Pregunta": "¿Para qué sirve la consulta de medicina integrativa?",
+        "Respuesta": "La consulta de medicina integrativa combina lo mejor de la medicina convencional con terapias complementarias para tratar no solo los síntomas, sino también las causas subyacentes de las enfermedades, mejorando la calidad de vida del paciente."
+    },
+    {
+        "Categoría": "Consultas y Tratamientos Específicos",
+        "Pregunta": "¿Tienen consulta con Nutricionista?",
+        "Respuesta": "Sí, contamos con consultas de nutrición personalizadas, enfocadas en la prevención y tratamiento de enfermedades a través de una alimentación balanceada y adaptada a las necesidades individuales de cada paciente."
+    },
+    {
+        "Categoría": "Consultas y Tratamientos Específicos",
+        "Pregunta": "¿Para qué sirve el suero antiobesidad?",
+        "Respuesta": "El suero antiobesidad es un tratamiento intravenoso que se administra en el Centro Médico Integrativo Mana. Está diseñado para apoyar la pérdida de peso mediante la regulación del metabolismo y la reducción del apetito, en combinación con una dieta equilibrada y ejercicio."
+    },
+    {
+        "Categoría": "Especialidades Médicas",
+        "Pregunta": "¿Qué especialidades médicas ofrecen en el Centro Médico Integrativo Mana?",
+        "Respuesta": "En el Centro Médico Integrativo Mana contamos con un equipo de especialistas en medicina interna, ginecología, pediatría, hematología, oncología, cuidados paliativos, nutriología médica, y medicina funcional. Todos nuestros servicios se brindan dentro de un ambiente de medicinas integrativas saludables, combinando lo mejor de la medicina convencional con terapias complementarias basadas en la evidencia."
+    },
+    {
+        "Categoría": "Acceso y Cobertura",
+        "Pregunta": "¿Cómo puedo agendar una cita?",
+        "Respuesta": "Puedes agendar una cita llamando directamente a nuestro centro, visitando nuestra página web, o enviando un mensaje a través de nuestras redes sociales. También ofrecemos la opción de consultas virtuales."
+    },
+    {
+        "Categoría": "Acceso y Cobertura",
+        "Pregunta": "¿El seguro médico cubre los tratamientos ofrecidos?",
+        "Respuesta": "La cobertura de los tratamientos puede variar según tu seguro médico. Te recomendamos comunicarte directamente con tu aseguradora o con nuestro equipo administrativo para obtener información específica sobre la cobertura."
+    }
+]
